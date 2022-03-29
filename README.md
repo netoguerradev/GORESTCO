@@ -20,7 +20,7 @@ $yarn add nodemon -D
 
 $yarn add eslint -D 
 
-(A flag -D indica que a dependência é uma dependência de desenvolvimento, que nãi irá subir para o código em produção evitando assim gastos de memória indesejados)
+(A flag -D indica que a dependência é uma dependência de desenvolvimento, que não irá subir para o código em produção evitando assim gastos de memória indesejados)
 
 # Configuração das dependências de desenvolvimento
 A configuração feita no nodemon foi no arquivo package.json criando um npm script, adicionar:
